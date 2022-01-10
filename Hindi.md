@@ -8,14 +8,14 @@ Learn Hindi :india: by compiling organized Markdown dictionary from text file.
 - [Hindi Phrases](#hindi--phrase)
 - [English Words](#english--word)
 
-### Contributors Needed
+### <a name="contribute"></a>Contributors Needed
 Hindi contributors needed to edit the following words:
 
-### Hindi Words
+### <a name="hindi--word"></a>Hindi Words
 
 #### Hindi Index
 
-[B](#hindi--b) ~ [D](#hindi--d) ~ [N](#hindi--n) ~ [Y](#hindi--y) ~ 
+[B](#hindi--b) ~ [D](#hindi--d) ~ [N](#hindi--n) ~ [Y](#hindi--y)
 
 #### Hindi Dictionary
 
