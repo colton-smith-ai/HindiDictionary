@@ -19,20 +19,20 @@ Hindi contributors needed to edit the following words:
 
 #### Hindi Dictionary
 
-##### B
+##### <a name="hindi--b">B
 Bhai - Brother/bro
 
 
-##### D
+##### <a name="hindi--d">D
 Dhanyawad - Thank you
 
 Dost - Friend
 
 
-##### N
+##### <a name="hindi--n">N
 Namaste - Hello
 
 
-##### Y
+##### <a name="hindi--y">Y
 Yaar - Friend
 

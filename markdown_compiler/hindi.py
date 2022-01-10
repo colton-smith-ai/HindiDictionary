@@ -96,7 +96,7 @@ for first_char in sorted_letters:
         md.write('[' + first_char + '](#' + hi + '--' + first_char.lower() + ') ~ ')
 
     # Add char link
-    hindi_words = hindi_words + nl + '##### ' + first_char + nl
+    hindi_words = hindi_words + nl + '##### <a name="' + hi + '--' + first_char.lower()+ '">' + first_char + nl
 
     # Retrieve list of tupples
     tups = organizer[first_char]
