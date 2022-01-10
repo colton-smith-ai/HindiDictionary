@@ -68,7 +68,7 @@ nl + 'Learn Hindi :india: by compiling organized Markdown dictionary ' +
 '### <a name="contribute"></a>Contributors Needed' + nl +
 'Hindi contributors needed to edit the following words:' + nln +
 '### <a name="hindi--word"></a>Hindi Words' + nln +
-'\t #### Hindi Index' + nln)
+'#### \t Hindi Index' + nln)
 
 # Create Markdown file
 md = open("Hindi.md", "w")
