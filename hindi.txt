@@ -1,0 +1,6 @@
+# Format with "{Hindi word} - {English definition}" per line
+Dhanyawad - Thank you
+Namaste - Hello
+Yaar - Friend
+Dost - Friend
+Bhai - Brother/bro
