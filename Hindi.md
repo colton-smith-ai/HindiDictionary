@@ -13,7 +13,7 @@ Hindi contributors needed to edit the following words:
 
 ### <a name="hindi--word"></a>Hindi Words
 
-#### Hindi Index
+	 #### Hindi Index
 
 [B](#hindi--b) ~ [D](#hindi--d) ~ [N](#hindi--n) ~ [Y](#hindi--y)
 

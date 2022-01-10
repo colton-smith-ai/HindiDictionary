@@ -68,7 +68,7 @@ nl + 'Learn Hindi :india: by compiling organized Markdown dictionary ' +
 '### <a name="contribute"></a>Contributors Needed' + nl +
 'Hindi contributors needed to edit the following words:' + nln +
 '### <a name="hindi--word"></a>Hindi Words' + nln +
-'#### Hindi Index' + nln)
+'\t #### Hindi Index' + nln)
 
 # Create Markdown file
 md = open("Hindi.md", "w")
@@ -81,14 +81,13 @@ hindi_words = ''
 
 # Alphabetize letters
 sorted_letters = sorted(organizer.keys())
-print(sorted_letters)
 
 # Add Hindi index to markdown
 for first_char in sorted_letters:
 
     # Format '~' char
     if first_char == sorted_letters[-1]:
-        print(first_char)
+
         # Add link to first letters
         md.write('[' + first_char + '](#' + hi + '--' + first_char.lower() + ')')
 
