@@ -65,7 +65,7 @@ nl + 'Learn Hindi :india: by compiling organized Markdown dictionary ' +
 '- [Hindi Words](#hindi--word)' + nl +
 '- [Hindi Phrases](#hindi--phrase)' + nl +
 '- [English Words](#english--word)' + nln +
-'### Contributors Needed' + nl +
+'### contribute' + nl +
 'Hindi contributors needed to edit the following words:' + nln +
 '### Hindi Words' + nln +
 '#### Hindi Index' + nln)
@@ -83,7 +83,7 @@ hindi_words = ''
 for first_char in sorted(organizer.keys()):
 
     # Add link to first letters
-    md.write('-[' + first_char + '](#' + hi + '--' + first_char.lower() + ')' + nl)
+    md.write('[' + first_char + '](#' + hi + '--' + first_char.lower() + ') ' + nl)
 
     # Add char link
     hindi_words = hindi_words + nl + '##### ' + first_char + nl
