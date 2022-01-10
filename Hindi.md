@@ -22,12 +22,17 @@ Hindi contributors needed to edit the following words:
 ##### B
 Bhai - Brother/bro
 
+
 ##### D
 Dhanyawad - Thank you
+
 Dost - Friend
+
 
 ##### N
 Namaste - Hello
 
+
 ##### Y
 Yaar - Friend
+

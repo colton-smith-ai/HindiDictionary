@@ -97,9 +97,9 @@ for first_char in sorted(organizer.keys()):
     # Iterate through tupples
     for hindi, english in tups:
 
-        # Concat all words per firs letter index
+        # Concat all words per first letter index
         hindi_words = (hindi_words +
-        hindi.capitalize() + ' - ' + english.capitalize() + nl)
+        hindi.capitalize() + ' - ' + english.capitalize() + nln)
 
 # Add Hindi dictionary
 md.write(nln + '#### Hindi Dictionary' + nl + hindi_words)
